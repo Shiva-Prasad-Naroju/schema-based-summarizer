@@ -1,0 +1,80 @@
+{
+    "schema_version": "FIR-AUTO-1.1",
+    "complaint_metadata": {
+      "submission_datetime": null,
+      "channel": null,
+      "language": null,
+      "urgency": null
+    },
+    "complainant": {
+      "name": null,
+      "father_husband_name": null,
+      "age": null,
+      "gender": null,
+      "address": null,
+      "phone": null,
+      "occupation": null
+    },
+    "victims": [],
+    "accused": [],
+    "incident": {
+      "datetime": {
+        "occurred_on": null,
+        "occurred_at": null,
+        "precision": null
+      },
+      "location": {
+        "address": null,
+        "landmark": null,
+        "area": null,
+        "police_station": null,
+        "district": null
+      },
+      "is_continuing": false,
+      "narrative": null
+    },
+    "offense_details": {
+      "type": null,
+      "description": null,
+      "modus_operandi": {
+        "method": null,
+        "weapons_used": [],
+        "vehicles_used": [],
+        "tools_used": []
+      },
+      "threats_made": {
+        "present": false,
+        "type": null,
+        "details": null
+      }
+    },
+    "loss_damage": {
+      "property": [],
+      "financial": {
+        "total_amount": null,
+        "method": null,
+        "transaction_details": null
+      },
+      "injuries": []
+    },
+    "witnesses": [],
+    "evidence_available": {
+      "documents": [],
+      "cctv": false,
+      "audio_video": false,
+      "physical_items": []
+    },
+    "delay_in_reporting": {
+      "days": null,
+      "reason": null
+    },
+    "digital_footprint": {
+      "present": false,
+      "mediums_used": [],
+      "phone_numbers": [],
+      "accounts": [],
+      "transaction_ids": [],
+      "urls": []
+    },
+    "original_text": null
+  }
