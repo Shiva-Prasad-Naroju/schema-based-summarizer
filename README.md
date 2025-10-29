@@ -4,7 +4,7 @@ This repo implements the project that summarizes the given complaint text based 
 
 # FIR Auto-Fill System v1.1
 
-An intelligent Streamlit application for automated First Information Report (FIR) processing. The system extracts structured data from complaint texts using Groq's LLaMA 3.1 model, validates mandatory information, and generates concise summaries for police officers.
+An intelligent Streamlit application in which the system extracts structured data from complaint texts using Groq's LLaMA 3.1 model, validates mandatory information, and generates concise summaries for police officers.
 
 ## 🚀 Features
 
@@ -14,6 +14,13 @@ An intelligent Streamlit application for automated First Information Report (FIR
 - **Concise Summary Generation**: Creates writer-friendly 5-7 line summaries for quick understanding
 - **Structured Data Output**: Generates validated JSON following FIR-AUTO-1.1 schema
 - **Export Capabilities**: Download structured data as JSON or complete reports
+
+## 🚀 Project Workflow
+
+Below is the end-to-end workflow of the system:
+
+![Workflow](./Workflow.png)
+
 
 ## 📋 Prerequisites
 
