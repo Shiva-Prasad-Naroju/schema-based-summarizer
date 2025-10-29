@@ -17,10 +17,9 @@ An intelligent Streamlit application in which the system extracts structured dat
 
 ## 🚀 Project Workflow
 
-Below is the end-to-end workflow of the system:
-
 <p align="center">
-  <img src="./Workflow.png" alt="Workflow Diagram" width="450" height="280"/>
+  <b>End-to-End System Flow</b><br>
+  <img src="./Workflow.png" alt="Workflow Diagram" width="450"/>
 </p>
 
 
