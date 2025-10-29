@@ -20,7 +20,7 @@ An intelligent Streamlit application in which the system extracts structured dat
 Below is the end-to-end workflow of the system:
 
 <p align="center">
-  <img src="./Workflow.png" alt="Workflow Diagram" width="450" height="100"/>
+  <img src="./Workflow.png" alt="Workflow Diagram" width="450" height="200"/>
 </p>
 
 
